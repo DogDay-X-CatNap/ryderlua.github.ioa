@@ -1,0 +1,12 @@
+body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
